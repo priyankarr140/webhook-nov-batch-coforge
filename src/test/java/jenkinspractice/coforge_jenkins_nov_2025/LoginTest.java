@@ -5,7 +5,7 @@ public class LoginTest {
 	@Test
 	void login()
 	{
-		System.out.println("payment6 TEST FUNCTIONALITY***!!!AABCDEEF");
+		System.out.println("payment6 TEST FUNCTIONALITY***!!!AABCDEEFG");
 	}
 
 }
